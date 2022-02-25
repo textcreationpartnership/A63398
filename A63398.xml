@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and impartial account of the Duke of Monmouth's being taken into custody, and his putting in bail before Judge Raymond September 25, 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63398</idno>
+            <idno type="STC">Wing T2491</idno>
+            <idno type="STC">ESTC R5984</idno>
+            <idno type="EEBO-CITATION">11964976</idno>
+            <idno type="OCLC">ocm 11964976</idno>
+            <idno type="VID">51674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and impartial account of the Duke of Monmouth's being taken into custody, and his putting in bail before Judge Raymond September 25, 1682</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alexander Johnson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:51674:1"/>
+            <pb n="1" facs="tcp:51674:1"/>
+            <head>A True and Impartial ACCOUNT OF THE DUKE OF MONMOUTH's Being taken into Cuſtody, and his putting in Bail before Judge <hi>Raymond</hi> September 25. 1682.</head>
+            <p>THe following Narrative is not calculated with a deſign to inflame par<g ref="char:EOLhyphen"/>ties, or to pleaſe the humor, or to raiſe the credit of one ſeparate Intereſt by falſe Flouriſhes and Inſinuations, and by raiſing injurious Inferences and Conſequences thereupon; but an innocent endeavour to gratifie the inquiſitive by a true and full Relation of the manner how his Grace the Duke of <hi>Monmouth</hi> was taken into Cuſtody, which has been a ſurprize to the minds of many, who we know have an earneſt deſire to be ſatisfied with the par<g ref="char:EOLhyphen"/>ticular Account of that whole Affair.</p>
+            <p>And in the management of this Narrative, 'twill be ſuperfluous to give the Rea<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the particular Tranſactions of his Grace's Progreſs towards the Weſtern parts of this Kingdom; for that may be had in moſt of the Intelligences: but I ſhall contain my ſelf within the Limits of relating thoſe moſt eminent paſſages that happened from <hi>September</hi> the 16th. the Date of the Warrant for his Graces Ap<g ref="char:EOLhyphen"/>prehenſion, to <hi>September</hi> 25. when his Grace put in Bail.</p>
+            <p>But that the Reader may clearly underſtand the whole, I muſt remind him of what he has read in Print of the Duke's being preſent at ſeveral Horſe-Races this year, and among the reſt, this at <hi>Wallis</hi> in <hi>Cheſhire,</hi> where he won the Plate, and a great deal of Applauſe, and a great Concourſe of People, as well attending his Grace there, as following him elſewhere; Information was given in to his Maje<g ref="char:EOLhyphen"/>ſty of ſeveral Riotous and Tumultuous Aſſemblies cauſed by his Grace; where<g ref="char:EOLhyphen"/>upon a Warrant was iſſued out from Sir <hi>L. Jenkins,</hi> one of his Majeſties Principal Secretaries of State, to Attach his Grace Duke of <hi>Monmouth,</hi> Dated <hi>Sept.</hi> 15th. 1682. and directed to one of his Majeſties. Serjeants at Arms; which being deli<g ref="char:EOLhyphen"/>vered to the ſaid Mr. Serjeant, he applied himſelf with all expedition to find his Grace, and was made acquainted that his Grace did bend his Journey towards <hi>Newcaſtle under Line,</hi> whither he alſo ſteered his Courſe, receiving Information
+<pb n="2" facs="tcp:51674:2"/>that on <hi>Sunday</hi> the 17th. his Grace was at the Earl of <hi>Maxfield</hi>'s, and on <hi>Monday Sept.</hi> 18 his Grace came to <hi>Trentham,</hi> where he ſupped, and alſo dined the next day, being <hi>Sept,</hi> 19. and the ſame day went to <hi>Newcaſtle,</hi> where 'tis ſuppoſed he <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay that night.</p>
+            <p>And on <hi>Wedneſday</hi> the 20th. his Grace came to <hi>Stafford,</hi> on his Journey to<g ref="char:EOLhyphen"/>wards <hi>London;</hi> where alſo the ſame day came the Serjeant at Arms, having pur<g ref="char:EOLhyphen"/>ſued his Journey with all imaginable diligence; and underſtanding that his Grace with his Retinue had alighted at a private Houſe in the Heart of the Town, being a Mercers, he went thither, and found His <hi>Grace</hi> in a very ſpacious Room, with ſuch Proviſions as the Houſe could afford, with ſeveral eminent Gentlemen of that and other Counties, that uſually attend thoſe Recreations that are held at ſuch ſea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of the year, He made up to his Grace, and delivered his Meſſage; who re<g ref="char:EOLhyphen"/>ceived it with that deportment as is ſuitable to men of his Figure in the world. His Grace deſired to ſee his Warrant, which was under the Hand of Sir <hi>L. Jen<g ref="char:EOLhyphen"/>kins,</hi> Knight, one of his Majeſties moſt Honourable Privy Council, and Principal Secretary of State, and was to this effect;</p>
+            <q>
+               <p>WHereas His Majeſty hath received Infor<g ref="char:EOLhyphen"/>mation that <hi>James</hi> Duke of <hi>Monmouth</hi> hath lately appeared in ſeveral parts of this Kingdom with great Numbers of People in a riotous and unlawful manner, to the diſturbance of the Publick Peace, and to the Terror of his Ma<g ref="char:EOLhyphen"/>jeſties good Subjects: Theſe are therefore in His Majeſties Name, and by his ſpecial Command, to will and require you forthwith to repair to any place where you ſhall underſtand the ſaid Duke of <hi>Monmouth</hi> to be, and him forthvvith to apprehend and bring in ſafe Cuſtody before me or any of the Lords of His Majeſties moſt Honourable Privy Council, to anſwer to ſuch things as on His Ma<g ref="char:EOLhyphen"/>jeſties behalf ſhall be objected to him the ſaid Duke of <hi>Monmouth,</hi> and for ſo doing this ſhall be your VVarrant. and all Mayors, Sheriffes, Conſta<g ref="char:EOLhyphen"/>bles, and all others His Majeſties Officers are here<g ref="char:EOLhyphen"/>by required to be herein aiding &amp; aſſiſting to you, as they will anſwer the contrary at their Peril.</p>
+               <p>
+                  <hi>To</hi> John Ramſey <hi>Eſquire, one of His</hi> Majeſties <hi>Serjeants at Arms.</hi>
+               </p>
+            </q>
+            <pb n="3" facs="tcp:51674:2"/>
+            <p>Which Warrant his <hi>Grace</hi> having read, He readily and chearfully ſubmitted to; and immediately repaired towards <hi>London,</hi> and that very night Lodged at <hi>Coeſell</hi> in <hi>Warwickſhire.</hi>
+            </p>
+            <p>The next day, being Thurſday <hi>September</hi> the 21. His <hi>Grace</hi> departed thence, and came about noon to <hi>Coventry,</hi> where notwithſtanding Mr. <hi>Sergeant,</hi> took all the care poſſible, to prevent any diſorders or tumults; but it being bruited a<g ref="char:EOLhyphen"/>broad that his <hi>Grace</hi> was under reſtrictions, the multitude gathered thick, and broke out into ſeveral ſhouts and acclamations. They departed after a very ſhort ſtay and came that night to <hi>Toceſter</hi> in <hi>Northamptonſhire,</hi> where his <hi>Grace</hi> lay: But here very late at night, a Drummer would needs entertain His <hi>Grace</hi> with a point of War, and would not be perſwaded to deſiſt, though he was told, he diſturbed His <hi>Grace</hi>'s reſt, till Mr. <hi>Serjeant</hi> was forced to exert his Authority, and com<g ref="char:EOLhyphen"/>manded him to leave off, or to do the contrary at his peril.</p>
+            <p>
+               <hi>September</hi> the 22. His <hi>Grace</hi> came to St. <hi>Albans,</hi> and there Lodged, In the mean while Sr. <hi>Thomas Armſtrong</hi> had haſtened to <hi>London,</hi> and procured an <hi>Ha<g ref="char:EOLhyphen"/>beas Corpus</hi> from <hi>Judg Raymond,</hi> with which he met his <hi>Grace</hi> at St. <hi>Albans:</hi> Where<g ref="char:EOLhyphen"/>upon there aroſe a conſiderable Debate, between His <hi>Grace</hi> the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi> His Councel, and the Serjeant at Arms, whether the <hi>Habeas Corpus</hi> ſhould ſupercede the Warrant or not; but the Serjeant at Arms managing that Affair, with great prudence, perſwaded His <hi>Grace</hi> to appear at <hi>White Hall,</hi> which he did the 23. inſtant being Saturday, before Sr. <hi>Lionel Jenkins,</hi> where he refuſing to be examined by him, was recommitted by a ſecond Warrant to the ſame Ser<g ref="char:EOLhyphen"/>jeant at Arms, the Subſtance whereof is to this purpoſe.</p>
+            <q>
+               <p>WHereas <hi>James</hi> Duke of <hi>Monmouth,</hi> now remains a Priſoner in your Cuſtody for ſeveral Riots by Him committed, and hath been required to find Sureties, which he hath refuſed; You the ſaid Serjeant are re<g ref="char:EOLhyphen"/>quired to keep the ſaid Duke in cuſtody, till he ſhall find Sureties to keep the Peace, till the firſt day of next <hi>Michaelmas</hi> Term, or be diſcharged according to Law.</p>
+            </q>
+            <p>And ſo abiding in durance, Saturday, Sunday, and part of Monday, at Ser<g ref="char:EOLhyphen"/>jeant <hi>Ramſey</hi>'s Houſe, in <hi>York Buildings</hi> in the Strand, where his <hi>Grace</hi> was viſited by ſeveral perſons of Eminent Quallity, He was on Monday in the forenoon, preſented to Judg <hi>Raymond,</hi> where the Serjeant at Arms made this following Re<g ref="char:EOLhyphen"/>turn on both the Warrants, to the Writ of <hi>Habeas Corpus</hi> according to the Sta<g ref="char:EOLhyphen"/>tute in that caſe provided. The Subſtance whereof you have here tranſlated for your better underſtanding.</p>
+            <q>
+               <p>
+                  <hi>I John</hi> Ramſey <abbr>
+                     <hi>Eſq</hi>
+                  </abbr> 
+                  <hi>one of the Serjeants of our Lord the King at Arms,</hi> Thomas Raymond Knight, <hi>one of the Juſtices of our Lord the King, to a Plea before the ſaid King to be held, and aſſigned in theſe Writs, and the Scedule annexed are mention'd, Humbly certifying that before the coming of theſe Writs to me directed,</hi> to wit, <hi>the twenti<g ref="char:EOLhyphen"/>eth day of</hi> September, <hi>in the year of the Raign of our Lord the King,</hi> Charles <hi>the Second, that now is, King of</hi> England, <hi>&amp;c. the thirty fourth Year, I have taken the Body of the within named</hi> James <hi>Duke of</hi> Monmouth <hi>in the aforeſaid</hi> Writs <hi>mentioned, by virtue of a certain</hi> Warrant, <hi>the Tenor whereof you have read before.</hi>
+               </p>
+               <pb n="4" facs="tcp:51674:3"/>
+               <p>
+                  <hi>And this is the Cauſe of the Taking and Detaining of the aforeſaid</hi> James <hi>Duke of</hi> Monmouth, <hi>whoſe Body before the ſaid</hi> Judge Raymond, <hi>the day and place in the aforeſaid Writ mentioned, is rea<g ref="char:EOLhyphen"/>dy to have, as by theſe Writs is intended, and to me is directed.</hi>
+               </p>
+            </q>
+            <p>The Judg thereupon accepted Bail, to two ſeveral Recognizances on the ſeve<g ref="char:EOLhyphen"/>ral Warrants, the Duke in a Recognizance of ten thouſand pound, and his five Sureties two thouſand pound each, on the firſt Recognizance, and three thouſand pound a piece on the ſecond Recognizance, which Bayl, were the Earl of <hi>Clare,</hi> Lord <hi>Ruſſel,</hi> Lord <hi>Grey of Wark, Leviſon Gower</hi> 
+               <abbr>Eſq</abbr> and <hi>John Offſey</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>And thus you have the beſt Account that can be given of Matter of Fact, in re<g ref="char:EOLhyphen"/>ference to the late Buſineſs of the Duke of Monmouth, which was the whole de<g ref="char:EOLhyphen"/>ſign of this Paper, to inform the Readers knowledg thereabout; And let him (if he thinks fit) draw from thence what Inferences and Concluſions he pleaſe, which will not be decided untill <hi>Michaelmas</hi> Term next.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Alexander Johnſon,</hi> 1682.</p>
+            <pb facs="tcp:51674:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
